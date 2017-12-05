@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GoalKeeperMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BackGroundCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GeoCamera.cs" Line="36" Column="12" />
+      <File FileName="Assets\Scripts\resetball.cs" Line="11" Column="70" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="10" Column="37" />
+      <File FileName="Assets\Scripts\moveball.cs" Line="86" Column="7" />
+      <File FileName="Assets\Scripts\BallShootDetector.cs" Line="10" Column="9" />
+      <File FileName="Assets\Scripts\GoalDetector.cs" Line="27" Column="3" />
+      <File FileName="Assets\Scripts\GoalKeeperMovement.cs" Line="11" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
